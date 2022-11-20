@@ -36,6 +36,6 @@
 <h2 align="center">📊 ◄ 𝓢𝓸𝓶𝓮 𝓼𝓽𝓪𝓽𝓼 ► 📊</h2>
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Yarkis01&hide_border=true&show_icons=true&theme=gotham&count_private=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarkis01&theme=gotham&langs_count=6&layout=compact&hide_border=true" />
+  <img height="125" src="https://github-readme-stats.vercel.app/api?username=Yarkis01&hide_border=true&show_icons=true&theme=gotham&count_private=true" />
+  <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarkis01&theme=gotham&langs_count=6&layout=compact&hide_border=true" />
 </div>
