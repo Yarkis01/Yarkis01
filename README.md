@@ -16,7 +16,7 @@
 - 🎮 Gaming addict
 - 🔫 Undisputed fan of Splatoon 3
 
-<br /><br /><br />
+<br /><br /><br /><br />
 
 <h2 align="center">💻 ◄ 𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼 ► 💻</h2>
 <div align="center">
