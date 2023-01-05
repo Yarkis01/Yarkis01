@@ -24,7 +24,10 @@
   <img src="https://img.shields.io/badge/Windows%2011%20-0984e3?style=for-the-badge&logo=windows&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Visual Studio Code%20-2980b9.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse IDE%20-9b59b6.svg?&style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20-f05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Java%20-f39c12.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white" />
   <img src="https://img.shields.io/badge/Python%20-3498db.svg?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
