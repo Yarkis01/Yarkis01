@@ -41,6 +41,13 @@
 <h2 align="center">📊 ◄ 𝓢𝓸𝓶𝓮 𝓼𝓽𝓪𝓽𝓼 ► 📊</h2>
 
 <div align="center">
+  <!--
   <img height="125" src="https://github-readme-stats.vercel.app/api?username=Yarkis01&hide_border=true&show_icons=true&theme=gotham&count_private=true" />
   <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarkis01&theme=gotham&langs_count=6&layout=compact&hide_border=true" />
+  -->
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yarkis01&hide_border=true&show_icons=true&theme=radical&count_private=true" />
+  <br />
+  <img height="150" src="https://streak-stats.demolab.com?user=Yarkis01&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true" />
+  <br />
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yarkis01&theme=radical&langs_count=6&layout=compact&hide_border=true" />
 </div>
