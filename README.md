@@ -20,7 +20,7 @@
 
 <h2 align="center">💻 ◄ 𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼 ► 💻</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux%20Mint%2020.3%20-2ecc71?style=for-the-badge&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Mint%2021.1%20-2ecc71?style=for-the-badge&logo=linuxmint&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%2011%20-0984e3?style=for-the-badge&logo=windows&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Visual Studio Code%20-2980b9.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
