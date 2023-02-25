@@ -4,7 +4,8 @@
 </div>
  
 <h2 align="center">💬 ◄ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ► 💬</h2>
-<h4>I'm <ins>17 years old</ins>, and I'm a <ins>solitary developer</ins> from <ins>France</ins> 🇫🇷</h4>
+<h4>I'm <ins>17 years old</ins>, and I'm a <ins>solitary developer</ins> from <ins>France</ins> 🇫🇷.<br />
+Currently in my last year of high school.</h4>
 
 <img src="assets/splatoon3.gif" width="500" align="right" />
 <br />
