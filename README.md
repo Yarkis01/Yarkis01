@@ -36,7 +36,9 @@ Currently in my last year of high school.</h4>
 
 <div align="center">
   <p>You can contact me by adding me on discord.</p>
-  <img src="https://lanyard.cnrad.dev/api/916363479366127616?animated=true&hideDiscrim=false" />
+  <a href="https://dsc.bio/yarkis">
+    <img src="https://lanyard.cnrad.dev/api/916363479366127616?animated=true&hideDiscrim=false" />
+  </a>
 </div>
 
 <h2 align="center">📊 ◄ 𝓢𝓸𝓶𝓮 𝓼𝓽𝓪𝓽𝓼 ► 📊</h2>
