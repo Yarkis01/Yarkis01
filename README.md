@@ -23,7 +23,7 @@ Currently in my last year of high school.</h4>
 - 🎮 Gaming addict
 - 🔫 Undisputed fan of Splatoon 3
 
-<br /><br /><br /><br />
+<br /><br />
 
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
