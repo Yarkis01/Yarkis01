@@ -50,5 +50,14 @@ Currently in my last year of high school.</h4>
   <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yarkis01&theme=radical&langs_count=6&layout=compact&hide_border=true" />
   <br />
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+From: 21 April 2023 - To: 22 April 2023
+
+Total Time: 9 mins
+
+Svelte   9 mins          █████████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->
 </div>
