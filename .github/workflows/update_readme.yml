@@ -1,0 +1,41 @@
+name: Update Readme
+
+on:
+  workflow_dispatch: 
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  wakatime:
+    name: Wakatime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BLOCK: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: all_time
+          SHOW_TITLE: false
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          LANG_COUNT: 6
+
+  snake:
+    name: Snake
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+  github-activity:
+    name: Github A
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
