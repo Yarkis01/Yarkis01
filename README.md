@@ -4,9 +4,13 @@
 
 <h2 align="center">💬 ◄ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ► 💬</h2>
 <h4>I'm <ins>17 years old</ins>, and I'm a <ins>solitary developer</ins> from <ins>France</ins> 🇫🇷.<br />
-Currently in my last year of high school.<br /><br /></h4>
+Currently in my last year of high school.</h4>
 
-<img src="assets/splatoon3.gif" height="350" align="right" />
+<img src="https://skillicons.dev/icons?theme=dark&i=linux,vscode,eclipse,git,python,java,flask,svelte">
+
+<br />
+
+<img src="assets/splatoon3.gif" width="500" align="right" />
 
 **✨ <ins>My hobbies</ins>**
 - ⌨️ IT development 
@@ -15,12 +19,7 @@ Currently in my last year of high school.<br /><br /></h4>
 - 🎮 Gaming addict
 - 🔫 Undisputed fan of Splatoon 3
 
-**💻 <ins>Software and Tools</ins>**
-<div align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&perline=4&i=linux,vscode,eclipse,git,python,java,flask,svelte">
-</div>
-
-<br />
+<br /><br /><br />
 
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 <!--START_SECTION:activity-->
