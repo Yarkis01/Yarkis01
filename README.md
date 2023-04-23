@@ -38,6 +38,13 @@ Currently in my last year of high school.</h4>
 <h2 align="center">💬 ◄ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ► 💬</h2>
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 9 mins
+
+Svelte   9 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
