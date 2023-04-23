@@ -32,6 +32,8 @@ jobs:
           outputs: |
             assets/github-snake.svg
             assets/github-snake-dark.svg?palette=github-dark
+      - name: Pull latest changes
+        run: git pull
       - uses: EndBug/add-and-commit@v9
         with:
           branch: main
