@@ -3,6 +3,8 @@
 </div>
 
 <h2 align="center">💬 ◄ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ► 💬</h2>
+<img src="https://count.getloli.com/get/@Yarkis01?theme=moebooru" align="right" />
+
 <h4>I'm <ins>17 years old</ins>, and I'm a <ins>solitary developer</ins> from <ins>France</ins> 🇫🇷.<br />
 Currently in my last year of high school.</h4>
 
@@ -15,30 +17,22 @@ Currently in my last year of high school.</h4>
 **✨ <ins>My hobbies</ins>**
 - ⌨️ IT development 
 - 👨‍💻 Reverse engineering
+- Lorem Ipsum
+- Lorem Ipsum
 - 👀 Watching anime
 - 🎮 Gaming addict
 - 🔫 Undisputed fan of Splatoon 3
 
-<br /><br /><br />
+<br /><br /><br /><br />
 
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
+
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/Yarkis01/Ayo/pull/39) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-2. 🎉 Merged PR [#37](https://github.com/Yarkis01/Ayo/pull/37) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-3. 🎉 Merged PR [#38](https://github.com/Yarkis01/Ayo/pull/38) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-4. 🗣 Commented on [#35](https://github.com/ading2210/poe-api/issues/35) in [ading2210/poe-api](https://github.com/ading2210/poe-api)
-5. 🗣 Commented on [#34](https://github.com/ading2210/poe-api/issues/34) in [ading2210/poe-api](https://github.com/ading2210/poe-api)
 <!--END_SECTION:activity-->
 
 <h2 align="center">💬 ◄ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ► 💬</h2>
+
 <!--START_SECTION:waka-->
-
-```text
-Total Time: 9 mins
-
-Svelte   9 mins          █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 <div align="center">

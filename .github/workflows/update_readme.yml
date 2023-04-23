@@ -24,7 +24,7 @@ jobs:
     name: Snake
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v2
+      - uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
