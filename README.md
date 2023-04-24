@@ -40,9 +40,15 @@ Currently in my last year of high school.</h4>
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 9 mins
+Total Time: 2 hrs 23 mins
 
-Svelte   9 mins          █████████████████████████   100.00 %
+Markdown   1 hr 14 mins    █████████████░░░░░░░░░░░░   51.98 %
+YAML       50 mins         ████████▓░░░░░░░░░░░░░░░░   35.01 %
+Svelte     13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+CSS        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+XML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
