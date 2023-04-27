@@ -40,15 +40,15 @@ Currently in my last year of high school.</h4>
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 23 mins
+Total Time: 3 hrs 48 mins
 
-Markdown   1 hr 14 mins    █████████████░░░░░░░░░░░░   51.98 %
-YAML       50 mins         ████████▓░░░░░░░░░░░░░░░░   35.01 %
-Svelte     13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
-CSS        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-XML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Svelte       1 hr 18 mins    ████████▓░░░░░░░░░░░░░░░░   34.49 %
+Markdown     1 hr 14 mins    ████████░░░░░░░░░░░░░░░░░   32.58 %
+YAML         50 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
+JavaScript   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
