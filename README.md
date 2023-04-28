@@ -27,12 +27,12 @@ Currently in my last year of high school.</h4>
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/Yarkis01/PokeAPI/issues/39) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
-2. ❗️ Closed issue [#39](https://github.com/Yarkis01/PokeAPI/issues/39) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
-3. 🗣 Commented on [#58](https://github.com/ading2210/poe-api/issues/58) in [ading2210/poe-api](https://github.com/ading2210/poe-api)
-4. 🗣 Commented on [#57](https://github.com/ading2210/poe-api/issues/57) in [ading2210/poe-api](https://github.com/ading2210/poe-api)
-5. 🎉 Merged PR [#39](https://github.com/Yarkis01/Ayo/pull/39) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-6. 🎉 Merged PR [#37](https://github.com/Yarkis01/Ayo/pull/37) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+1. 🎉 Merged PR [#41](https://github.com/Yarkis01/Ayo/pull/41) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+2. 🎉 Merged PR [#42](https://github.com/Yarkis01/Ayo/pull/42) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+3. ❌ Closed PR [#40](https://github.com/Yarkis01/Ayo/pull/40) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+4. 🗣 Commented on [#39](https://github.com/Yarkis01/PokeAPI/issues/39) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
+5. ❗️ Closed issue [#39](https://github.com/Yarkis01/PokeAPI/issues/39) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
+6. 🗣 Commented on [#58](https://github.com/ading2210/poe-api/issues/58) in [ading2210/poe-api](https://github.com/ading2210/poe-api)
 <!--END_SECTION:activity-->
 
 <h2 align="center">📊 ◄ 𝓦𝓪𝓴𝓪𝓽𝓲𝓶𝓮 ► 📊</h2>
