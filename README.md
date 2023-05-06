@@ -10,9 +10,9 @@ Currently in my last year of high school.</h4>
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=linux,vscode,eclipse,git,python,java,flask,svelte" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&i=linux,vscode,eclipse,git,python,java,flask,svelte" />
-  <img alt="icons" src="https://skillicons.dev/icons?theme=light&i=linux,vscode,eclipse,git,python,java,flask,svelte" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/icons_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/icons.svg" />
+  <img alt="icons" src="icons.svg" />
 </picture>
 
 <br />
