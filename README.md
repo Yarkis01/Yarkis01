@@ -8,7 +8,12 @@
 <h4>I'm <ins>17 years old</ins>, and I'm a <ins>solitary developer</ins> from <ins>France</ins> 🇫🇷.<br />
 Currently in my last year of high school.</h4>
 
-<img src="https://skillicons.dev/icons?theme=dark&i=linux,vscode,eclipse,git,python,java,flask,svelte">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=linux,vscode,eclipse,git,python,java,flask,svelte" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&i=linux,vscode,eclipse,git,python,java,flask,svelte" />
+  <img alt="icons" src="https://skillicons.dev/icons?theme=light&i=linux,vscode,eclipse,git,python,java,flask,svelte" />
+</picture>
 
 <br />
 
