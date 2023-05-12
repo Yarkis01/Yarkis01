@@ -45,14 +45,14 @@ Currently in my last year of high school.</h4>
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 25 hrs 50 mins
+Total Time: 31 hrs 59 mins
 
-Python       13 hrs 35 mins  █████████████░░░░░░░░░░░░   52.58 %
-Svelte       4 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
-Markdown     4 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-JSON         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-YAML         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-JavaScript   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Python       19 hrs 1 min    ███████████████░░░░░░░░░░   59.49 %
+Markdown     4 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
+Svelte       4 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+JSON         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+YAML         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Text         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
