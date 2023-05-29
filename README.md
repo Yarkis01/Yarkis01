@@ -47,8 +47,8 @@ Currently in my last year of high school.</h4>
 ```text
 Total Time: 34 hrs 23 mins
 
-Python       20 hrs 56 mins  ███████████████▒░░░░░░░░░   60.91 %
-Markdown     5 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+Python       20 hrs 56 mins  ███████████████▒░░░░░░░░░   60.89 %
+Markdown     5 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
 Svelte       4 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
 JSON         1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 YAML         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
