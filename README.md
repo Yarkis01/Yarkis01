@@ -36,8 +36,8 @@ Currently in my last year of high school.</h4>
 2. 🎉 Merged PR [#53](https://github.com/Yarkis01/Ayo/pull/53) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
 3. 🎉 Merged PR [#54](https://github.com/Yarkis01/Ayo/pull/54) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
 4. 🎉 Merged PR [#49](https://github.com/Yarkis01/Ayo/pull/49) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-5. ❌ Closed PR [#45](https://github.com/Yarkis01/Ayo/pull/45) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-6. 🎉 Merged PR [#46](https://github.com/Yarkis01/Ayo/pull/46) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+5. 🚀 Published release [Ayo - 1.7.1](https://github.com/Ayo - 1.7.1) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+6. ❌ Closed PR [#45](https://github.com/Yarkis01/Ayo/pull/45) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
 <!--END_SECTION:activity-->
 
 <h2 align="center">📊 ◄ 𝓦𝓪𝓴𝓪𝓽𝓲𝓶𝓮 ► 📊</h2>
