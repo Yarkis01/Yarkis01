@@ -45,7 +45,7 @@ Currently in my last year of high school.</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 52 hrs 39 mins
+Total Time: 52 hrs 40 mins
 
 Python       31 hrs 48 mins  ███████████████░░░░░░░░░░   60.39 %
 Markdown     6 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
