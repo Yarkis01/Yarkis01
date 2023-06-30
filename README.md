@@ -45,14 +45,14 @@ Currently in my last year of high school.</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 52 hrs 40 mins
+Total Time: 52 hrs 48 mins
 
-Python       31 hrs 48 mins  ███████████████░░░░░░░░░░   60.39 %
-Markdown     6 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Svelte       4 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-JSON         3 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Rust         2 hrs 54 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-YAML         50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Python       31 hrs 55 mins  ███████████████░░░░░░░░░░   60.46 %
+Markdown     6 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+Svelte       4 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+JSON         3 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Rust         2 hrs 54 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+YAML         50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
