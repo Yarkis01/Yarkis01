@@ -13,7 +13,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCK: ⣀⣄⣤⣦⣶⣷⣿
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: all_time
           SHOW_TITLE: false
           SHOW_TIME: true
@@ -36,7 +36,6 @@ jobs:
         run: git pull
       - uses: EndBug/add-and-commit@v9
         with:
-          branch: main
           message: "🐍 Snake update"
           default_author: github_actions
 
