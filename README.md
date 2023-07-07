@@ -32,11 +32,11 @@ Currently in my last year of high school.</h4>
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/Yarkis01/Ayo/pull/62) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-2. 🎉 Merged PR [#61](https://github.com/Yarkis01/Ayo/pull/61) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-3. 🚀 Published release [Ayo - 1.7.3](https://github.com/Ayo - 1.7.3) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-4. 🎉 Merged PR [#60](https://github.com/Yarkis01/Ayo/pull/60) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-5. 🚀 Published release [Ayo - 1.7.2](https://github.com/Ayo - 1.7.2) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+1. 🎉 Merged PR [#63](https://github.com/Yarkis01/Ayo/pull/63) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+2. 🎉 Merged PR [#62](https://github.com/Yarkis01/Ayo/pull/62) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+3. 🎉 Merged PR [#61](https://github.com/Yarkis01/Ayo/pull/61) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+4. 🚀 Published release [Ayo - 1.7.3](https://github.com/Ayo - 1.7.3) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+5. 🎉 Merged PR [#60](https://github.com/Yarkis01/Ayo/pull/60) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
 6. 🚀 Published release [Ayo - 1.7.2](https://github.com/Ayo - 1.7.2) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
 <!--END_SECTION:activity-->
 
