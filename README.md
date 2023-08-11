@@ -32,12 +32,12 @@ Currently in my last year of high school.</h4>
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#49](https://github.com/Yarkis01/PokeAPI/issues/49) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
-2. 🔒 Closed issue [#48](https://github.com/Yarkis01/PokeAPI/issues/48) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
-3. 🎉 Merged PR [#66](https://github.com/Yarkis01/Ayo/pull/66) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-4. 🎉 Merged PR [#67](https://github.com/Yarkis01/Ayo/pull/67) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-5. 🎉 Merged PR [#68](https://github.com/Yarkis01/Ayo/pull/68) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-6. 🎉 Merged PR [#65](https://github.com/Yarkis01/Ayo/pull/65) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+1. 🚀 Published release [Ayo - 2.0.0](https://github.com/Yarkis01/Ayo/releases/tag/v2.0.0) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+2. 🎉 Merged PR [#70](https://github.com/Yarkis01/Ayo/pull/70) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+3. 💪 Opened PR [#70](https://github.com/Yarkis01/Ayo/pull/70) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+4. ❌ Closed PR [#69](https://github.com/Yarkis01/Ayo/pull/69) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+5. 🔒 Closed issue [#49](https://github.com/Yarkis01/PokeAPI/issues/49) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
+6. 🔒 Closed issue [#48](https://github.com/Yarkis01/PokeAPI/issues/48) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
 <!--END_SECTION:activity-->
 
 <h2 align="center">📊 ◄ 𝓦𝓪𝓴𝓪𝓽𝓲𝓶𝓮 ► 📊</h2>
