@@ -5,8 +5,9 @@
 <h2 align="center">💬 ◄ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ► 💬</h2>
 <img src="https://count.getloli.com/get/@Yarkis01?theme=moebooru" align="right" />
 
-<h4>I'm <ins>17 years old</ins>, and I'm a <ins>solitary developer</ins> from <ins>France</ins> 🇫🇷.<br />
-Currently in my last year of high school.</h4>
+<h4>I'm a <ins>18-year-old solitary developer</ins> from <ins>France</ins> 🇫🇷.<br />
+I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer science.
+</h4>
 
 
 <picture>
