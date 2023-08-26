@@ -33,12 +33,12 @@ I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer sci
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/Yarkis01/Ayo/pull/75) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-2. 🎉 Merged PR [#74](https://github.com/Yarkis01/Ayo/pull/74) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-3. 🎉 Merged PR [#73](https://github.com/Yarkis01/Ayo/pull/73) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-4. 🎉 Merged PR [#72](https://github.com/Yarkis01/Ayo/pull/72) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-5. 🎉 Merged PR [#71](https://github.com/Yarkis01/Ayo/pull/71) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-6. 🚀 Published release [Ayo - 2.0.0](https://github.com/Yarkis01/Ayo/releases/tag/v2.0.0) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+1. 🎉 Merged PR [#76](https://github.com/Yarkis01/Ayo/pull/76) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+2. 🎉 Merged PR [#75](https://github.com/Yarkis01/Ayo/pull/75) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+3. 🎉 Merged PR [#74](https://github.com/Yarkis01/Ayo/pull/74) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+4. 🎉 Merged PR [#73](https://github.com/Yarkis01/Ayo/pull/73) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+5. 🎉 Merged PR [#72](https://github.com/Yarkis01/Ayo/pull/72) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+6. 🎉 Merged PR [#71](https://github.com/Yarkis01/Ayo/pull/71) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
 <!--END_SECTION:activity-->
 
 <h2 align="center">📊 ◄ 𝓦𝓪𝓴𝓪𝓽𝓲𝓶𝓮 ► 📊</h2>
