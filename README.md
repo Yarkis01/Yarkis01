@@ -33,12 +33,12 @@ I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer sci
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#43](https://github.com/Yarkis01/PokeAPI/issues/43) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
-2. 🎉 Merged PR [#52](https://github.com/Yarkis01/PokeAPI/pull/52) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
-3. 💪 Opened PR [#52](https://github.com/Yarkis01/PokeAPI/pull/52) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
-4. 🗣 Commented on [#51](https://github.com/Yarkis01/PokeAPI/issues/51#issuecomment-1729076845) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
-5. 🎉 Merged PR [#50](https://github.com/Yarkis01/PokeAPI/pull/50) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
-6. 💪 Opened PR [#50](https://github.com/Yarkis01/PokeAPI/pull/50) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
+1. 🔒 Closed issue [#53](https://github.com/Yarkis01/PokeAPI/issues/53) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
+2. 🗣 Commented on [#53](https://github.com/Yarkis01/PokeAPI/issues/53#issuecomment-1751327573) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
+3. 🔒 Closed issue [#43](https://github.com/Yarkis01/PokeAPI/issues/43) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
+4. 🎉 Merged PR [#52](https://github.com/Yarkis01/PokeAPI/pull/52) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
+5. 💪 Opened PR [#52](https://github.com/Yarkis01/PokeAPI/pull/52) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
+6. 🗣 Commented on [#51](https://github.com/Yarkis01/PokeAPI/issues/51#issuecomment-1729076845) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
 <!--END_SECTION:activity-->
 
 <h2 align="center">📊 ◄ 𝓦𝓪𝓴𝓪𝓽𝓲𝓶𝓮 ► 📊</h2>
