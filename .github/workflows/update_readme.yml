@@ -18,7 +18,7 @@ jobs:
           SHOW_TITLE: false
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 6
+          LANG_COUNT: 8
           COMMIT_MESSAGE: "📊 Wakatime update"
 
   snake:
