@@ -33,12 +33,12 @@ I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer sci
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com/Yarkis01/Ayo/pull/86) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-2. 🎉 Merged PR [#85](https://github.com/Yarkis01/Ayo/pull/85) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-3. 🎉 Merged PR [#84](https://github.com/Yarkis01/Ayo/pull/84) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-4. 🗣 Commented on [#84](https://github.com/Yarkis01/Ayo/pull/84#issuecomment-1774815418) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-5. 🎉 Merged PR [#83](https://github.com/Yarkis01/Ayo/pull/83) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-6. 🔒 Closed issue [#53](https://github.com/Yarkis01/PokeAPI/issues/53) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
+1. 🎉 Merged PR [#88](https://github.com/Yarkis01/Ayo/pull/88) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+2. 🎉 Merged PR [#89](https://github.com/Yarkis01/Ayo/pull/89) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+3. 🎉 Merged PR [#90](https://github.com/Yarkis01/Ayo/pull/90) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+4. 🎉 Merged PR [#86](https://github.com/Yarkis01/Ayo/pull/86) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+5. 🎉 Merged PR [#85](https://github.com/Yarkis01/Ayo/pull/85) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+6. 🎉 Merged PR [#84](https://github.com/Yarkis01/Ayo/pull/84) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
 <!--END_SECTION:activity-->
 
 <h2 align="center">📊 ◄ 𝓦𝓪𝓴𝓪𝓽𝓲𝓶𝓮 ► 📊</h2>
