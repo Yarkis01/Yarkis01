@@ -33,12 +33,12 @@ I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer sci
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#59](https://github.com/Yarkis01/PokeAPI/issues/59) in [Yarkis01/PokeAPI](https://github.com/Yarkis01/PokeAPI)
-2. 💪 Opened PR [#1](https://github.com/MarcusIsLion/MTR-addon-sign/pull/1) in [MarcusIsLion/MTR-addon-sign](https://github.com/MarcusIsLion/MTR-addon-sign)
-3. 🎉 Merged PR [#88](https://github.com/Yarkis01/Ayo/pull/88) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-4. 🎉 Merged PR [#89](https://github.com/Yarkis01/Ayo/pull/89) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-5. 🎉 Merged PR [#90](https://github.com/Yarkis01/Ayo/pull/90) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-6. 🎉 Merged PR [#86](https://github.com/Yarkis01/Ayo/pull/86) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+1. 🎉 Merged PR [#94](https://github.com/Yarkis01/Ayo/pull/94) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+2. 🗣 Commented on [#94](https://github.com/Yarkis01/Ayo/pull/94#issuecomment-1890963276) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+3. 🎉 Merged PR [#93](https://github.com/Yarkis01/Ayo/pull/93) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+4. 🗣 Commented on [#93](https://github.com/Yarkis01/Ayo/pull/93#issuecomment-1890962298) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+5. 🎉 Merged PR [#92](https://github.com/Yarkis01/Ayo/pull/92) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+6. 🗣 Commented on [#92](https://github.com/Yarkis01/Ayo/pull/92#issuecomment-1890960321) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
 <!--END_SECTION:activity-->
 
 <h2 align="center">📊 ◄ 𝓦𝓪𝓴𝓪𝓽𝓲𝓶𝓮 ► 📊</h2>
