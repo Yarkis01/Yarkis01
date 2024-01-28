@@ -33,12 +33,12 @@ I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer sci
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/Yarkis01/Ayo/pull/95) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-2. 🎉 Merged PR [#96](https://github.com/Yarkis01/Ayo/pull/96) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-3. 🗣 Commented on [#96](https://github.com/Yarkis01/Ayo/pull/96#issuecomment-1909551026) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-4. 🎉 Merged PR [#97](https://github.com/Yarkis01/Ayo/pull/97) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-5. 🎉 Merged PR [#94](https://github.com/Yarkis01/Ayo/pull/94) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
-6. 🗣 Commented on [#94](https://github.com/Yarkis01/Ayo/pull/94#issuecomment-1890963276) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
+1. 🔒 Closed issue [#61](https://github.com/Yarkis01/TyraDex/issues/61) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
+2. 🔒 Closed issue [#62](https://github.com/Yarkis01/TyraDex/issues/62) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
+3. 🔒 Closed issue [#60](https://github.com/Yarkis01/TyraDex/issues/60) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
+4. 🔒 Closed issue [#63](https://github.com/Yarkis01/TyraDex/issues/63) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
+5. 🗣 Commented on [#63](https://github.com/Yarkis01/TyraDex/issues/63#issuecomment-1913352505) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
+6. 🎉 Merged PR [#95](https://github.com/Yarkis01/Ayo/pull/95) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
 <!--END_SECTION:activity-->
 
 <h2 align="center">📊 ◄ 𝓦𝓪𝓴𝓪𝓽𝓲𝓶𝓮 ► 📊</h2>
