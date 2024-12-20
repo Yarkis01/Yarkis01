@@ -28,7 +28,7 @@ I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer sci
 - 🎮 Gaming addict
 - 🔫 Undisputed fan of Splatoon 3
 
-<br /><br />
+<br /><br /><br />
 
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
