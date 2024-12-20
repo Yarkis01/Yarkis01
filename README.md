@@ -5,7 +5,7 @@
 <h2 align="center">💬 ◄ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ► 💬</h2>
 <!--<img src="https://count.getloli.com/get/@Yarkis01?theme=moebooru" align="right" />-->
 
-<p>I'm a <ins>18-year-old solitary developer</ins> from <ins>France</ins> 🇫🇷.<br />
+<p>I'm a <ins>19-year-old solitary developer</ins> from <ins>France</ins> 🇫🇷.<br />
 I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer science.
 </p>
 
@@ -67,4 +67,9 @@ SCSS                   23 hrs 31 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
+</div>
+
+<div align="center">
+  <h2 align="center">🏆 ◄ 𝓣𝓻𝓸𝓹𝓱𝓲𝒆𝓼 ► 🏆</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=yarkis01&theme=matrix&no-bg=true&no-frame=true&rank=-?&column=-1" alt="">
 </div>
