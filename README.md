@@ -33,7 +33,7 @@ I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer sci
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#68](https://github.com/Yarkis01/TyraDex/issues/68) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
+1. 💪 Opened PR [#9356](https://github.com/PreMiD/Activities/pull/9356) in [PreMiD/Activities](https://github.com/PreMiD/Activities)
 2. 🗣 Commented on [#71](https://github.com/Yarkis01/TyraDex/issues/71#issuecomment-2351681800) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
 3. ❌ Closed PR [#99](https://github.com/Yarkis01/Ayo/pull/99) in [Yarkis01/Ayo](https://github.com/Yarkis01/Ayo)
 4. 🎉 Merged PR [#66](https://github.com/Yarkis01/TyraDex/pull/66) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
