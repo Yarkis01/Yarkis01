@@ -33,12 +33,12 @@ I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer sci
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/Yarkis01/TyraDex/issues/81#issuecomment-2770214079) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
-2. 🗣 Commented on [#82](https://github.com/Yarkis01/TyraDex/issues/82#issuecomment-2770205385) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
-3. 🔒 Closed issue [#82](https://github.com/Yarkis01/TyraDex/issues/82) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
-4. 🎉 Merged PR [#66](https://github.com/Yarkis01/TyraDex/pull/66) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
-5. 🔒 Closed issue [#55](https://github.com/Yarkis01/TyraDex/issues/55) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
-6. 🎉 Merged PR [#66](https://github.com/Yarkis01/TyraDex/pull/66) in [Yarkis01/TyraDex](https://github.com/Yarkis01/TyraDex)
+1. ℹ️ Labeled issue [#49](https://github.com/Yarkis01/TPI_Toolbox/issues/49) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
+2. ❗ Opened issue [#49](https://github.com/Yarkis01/TPI_Toolbox/issues/49) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
+3. ℹ️ Labeled issue [#48](https://github.com/Yarkis01/TPI_Toolbox/issues/48) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
+4. ❗ Opened issue [#48](https://github.com/Yarkis01/TPI_Toolbox/issues/48) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
+5. 🗣 Commented on [#42](https://github.com/Yarkis01/TPI_Toolbox/issues/42#issuecomment-3969205808) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
+6. ℹ️ Labeled issue [#42](https://github.com/Yarkis01/TPI_Toolbox/issues/42) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
 <!--END_SECTION:activity-->
 
 <h2 align="center">📊 ◄ 𝓦𝓪𝓴𝓪𝓽𝓲𝓶𝓮 ► 📊</h2>
