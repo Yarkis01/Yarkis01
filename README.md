@@ -33,12 +33,12 @@ I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer sci
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#62](https://github.com/Yarkis01/TPI_Toolbox/pull/62) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-2. 💪 Opened PR [#62](https://github.com/Yarkis01/TPI_Toolbox/pull/62) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-3. ℹ️ Labeled issue [#61](https://github.com/Yarkis01/TPI_Toolbox/issues/61) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-4. ❗ Opened issue [#61](https://github.com/Yarkis01/TPI_Toolbox/issues/61) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-5. ℹ️ Assigned issue [#61](https://github.com/Yarkis01/TPI_Toolbox/issues/61) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-6. ℹ️ Assigned issue [#59](https://github.com/Yarkis01/TPI_Toolbox/issues/59) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
+1. 🎉 Merged PR [#62](https://github.com/Yarkis01/TPI_Toolbox/pull/62) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
+2. ℹ️ Labeled PR [#62](https://github.com/Yarkis01/TPI_Toolbox/pull/62) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
+3. 💪 Opened PR [#62](https://github.com/Yarkis01/TPI_Toolbox/pull/62) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
+4. ℹ️ Labeled issue [#61](https://github.com/Yarkis01/TPI_Toolbox/issues/61) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
+5. ❗ Opened issue [#61](https://github.com/Yarkis01/TPI_Toolbox/issues/61) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
+6. ℹ️ Assigned issue [#61](https://github.com/Yarkis01/TPI_Toolbox/issues/61) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
 <!--END_SECTION:activity-->
 
 <h2 align="center">📊 ◄ 𝓦𝓪𝓴𝓪𝓽𝓲𝓶𝓮 ► 📊</h2>
