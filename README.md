@@ -33,12 +33,12 @@ I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer sci
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/Yarkis01/TPI_Toolbox/pull/62) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-2. ℹ️ Labeled PR [#62](https://github.com/Yarkis01/TPI_Toolbox/pull/62) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-3. 💪 Opened PR [#62](https://github.com/Yarkis01/TPI_Toolbox/pull/62) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-4. ℹ️ Labeled issue [#61](https://github.com/Yarkis01/TPI_Toolbox/issues/61) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-5. ❗ Opened issue [#61](https://github.com/Yarkis01/TPI_Toolbox/issues/61) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-6. ℹ️ Assigned issue [#61](https://github.com/Yarkis01/TPI_Toolbox/issues/61) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
+1. 🎉 Merged PR [#6](https://github.com/dept-info-iut-dijon/S6-B1-GUS-crafting-code/pull/6) in [dept-info-iut-dijon/S6-B1-GUS-crafting-code](https://github.com/dept-info-iut-dijon/S6-B1-GUS-crafting-code)
+2. ℹ️ Labeled PR [#6](https://github.com/dept-info-iut-dijon/S6-B1-GUS-crafting-code/pull/6) in [dept-info-iut-dijon/S6-B1-GUS-crafting-code](https://github.com/dept-info-iut-dijon/S6-B1-GUS-crafting-code)
+3. 💪 Opened PR [#6](https://github.com/dept-info-iut-dijon/S6-B1-GUS-crafting-code/pull/6) in [dept-info-iut-dijon/S6-B1-GUS-crafting-code](https://github.com/dept-info-iut-dijon/S6-B1-GUS-crafting-code)
+4. ❌ Closed PR [#1](https://github.com/ythirion/crafting-code/pull/1) in [ythirion/crafting-code](https://github.com/ythirion/crafting-code)
+5. 💪 Opened PR [#1](https://github.com/ythirion/crafting-code/pull/1) in [ythirion/crafting-code](https://github.com/ythirion/crafting-code)
+6. 🎉 Merged PR [#5](https://github.com/dept-info-iut-dijon/S6-B1-GUS-crafting-code/pull/5) in [dept-info-iut-dijon/S6-B1-GUS-crafting-code](https://github.com/dept-info-iut-dijon/S6-B1-GUS-crafting-code)
 <!--END_SECTION:activity-->
 
 <h2 align="center">📊 ◄ 𝓦𝓪𝓴𝓪𝓽𝓲𝓶𝓮 ► 📊</h2>
