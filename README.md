@@ -33,8 +33,8 @@ I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer sci
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/Yarkis01/TPI_Toolbox/pull/120) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-2. ℹ️ Labeled PR [#120](https://github.com/Yarkis01/TPI_Toolbox/pull/120) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
+1. 🎉 Merged PR [#3](https://github.com/TyradexTeam/Website/pull/3) in [TyradexTeam/Website](https://github.com/TyradexTeam/Website)
+2. 💪 Opened PR [#3](https://github.com/TyradexTeam/Website/pull/3) in [TyradexTeam/Website](https://github.com/TyradexTeam/Website)
 3. 💪 Opened PR [#120](https://github.com/Yarkis01/TPI_Toolbox/pull/120) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
 4. 🔒 Closed issue [#116](https://github.com/Yarkis01/TPI_Toolbox/issues/116) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
 5. 🎉 Merged PR [#119](https://github.com/Yarkis01/TPI_Toolbox/pull/119) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
