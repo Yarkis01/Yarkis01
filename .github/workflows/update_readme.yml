@@ -2,7 +2,7 @@ name: Update Readme
 on:
   workflow_dispatch: 
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 0 * * *"
 jobs:
   wakatime:
     name: Wakatime
@@ -16,27 +16,8 @@ jobs:
           SHOW_TITLE: false
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 8
+          LANG_COUNT: 5
           COMMIT_MESSAGE: "📊 Wakatime update"
-  snake:
-    name: Snake
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            assets/github-snake.svg
-            assets/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Pull latest changes
-        run: git pull
-      - uses: EndBug/add-and-commit@v10
-        with:
-          message: "🐍 Snake update"
-          default_author: github_actions
   github-activity:
     name: Github Activity
     runs-on: ubuntu-latest
@@ -47,4 +28,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "⚡Recent activity update"
-          MAX_LINES: 6
+          MAX_LINES: 3

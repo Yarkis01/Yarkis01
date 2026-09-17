@@ -5,15 +5,16 @@
 <h2 align="center">💬 ◄ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ► 💬</h2>
 <!--<img src="https://count.getloli.com/get/@Yarkis01?theme=moebooru" align="right" />-->
 
-<p>I'm a <ins>20-year-old solitary developer</ins> from <ins>France</ins> 🇫🇷.<br />
-I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer science.
+<p>I'm a <ins>21-year-old passionate developer</ins> from <ins>France</ins> 🇫🇷.<br />
+🎓 Graduated with a B.U.T. in Computer Science.<br />
+🚀 Currently pursuing a Master's-level degree in Software Architecture & Development.
 </p>
 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/icons_dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/icons.svg" />
-  <img alt="icons" src="icons.svg" />
+  <img alt="icons" src="assets/icons.svg" />
 </picture>
 
 <br />
@@ -27,9 +28,48 @@ I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer sci
 - 👀 Watching anime
 - 🎮 Gaming addict
 - 🔫 Undisputed fan of Splatoon 3
+- 🎢 Theme Park & Coaster Enthusiast
 
-<br /><br /><br />
+<br /><br />
 
+<h2 align="center">🧪 ◄ 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓔𝔁𝓹𝓵𝓸𝓻𝓪𝓽𝓲𝓸𝓷𝓼 & 𝓡&𝓓 ► 🧪</h2>
+<p align="center"><i>Upgrading my stack, prototyping, and waiting for the right moments...</i></p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥽 VR Integrations</h3>
+      <p>Prototyping logic for SteamVR overlays and background services.</p>
+      <p><i>Tech stack: C# • .NET • SteamVR API</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Hardware & Embedded</h3>
+      <p>Researching firmware architectures for custom controller emulation via Web Serial.</p>
+      <p><i>Tech stack: ESP32-S3 • C++</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧰 TPI Toolbox (Standby for V2)</h3>
+      <p>V1 is archived due to game dev halting. Holding the line to build brand-new QoL Tampermonkey scripts when V2 drops!</p>
+      <p><i>Focus: TypeScript • Vite • Userscript</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐳 Self-Hosting & DevOps</h3>
+      <p>Architecting and maintaining my own Linux infrastructure for side projects.</p>
+      <p><i>Stack: Podman • Traefik • CI/CD</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <h3>🤫 [REDACTED] Side Quests</h3>
+      <p>My brain constantly runs background threads with random concepts. Expect sudden repository spawns and spontaneous commits without warning.</p>
+      <p><i>Dependencies: Hot Chocolate • Curiosity • Late Night Motivation</i></p>
+    </td>
+  </tr>
+</table>
+
+<br />
 <h2 align="center">⚡ ◄ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ► ⚡</h2>
 
 <!--START_SECTION:activity-->
@@ -41,6 +81,7 @@ I am currently pursuing a B.U.T. (Bachelor of Technology) degree in computer sci
 6. ℹ️ Labeled PR [#119](https://github.com/Yarkis01/TPI_Toolbox/pull/119) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
 <!--END_SECTION:activity-->
 
+<br />
 <h2 align="center">📊 ◄ 𝓦𝓪𝓴𝓪𝓽𝓲𝓶𝓮 ► 📊</h2>
 
 <!--START_SECTION:waka-->
@@ -60,16 +101,22 @@ CSS                                41 hrs 36 mins        ⣷⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<div align="center">
-  <h2 align="center">🐍 ◄ 𝓢𝓷𝓪𝓴𝓮 ► 🐍</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
-</div>
+<br />
 
 <div align="center">
-  <h2 align="center">🏆 ◄ 𝓣𝓻𝓸𝓹𝓱𝓲𝒆𝓼 ► 🏆</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=yarkis01&theme=matrix&no-bg=true&no-frame=true&rank=-?&column=-1" alt="">
+  <h2 align="center">🏅 ◄ 𝓐𝓬𝓱𝓲𝓮𝓿𝓮𝓶𝓮𝓷𝓽𝓼 ► 🏅</h2>
+  <table align="center" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h3>🎢 Coaster Count</h3>
+        <a href="https://coaster-count.com/user/66449/ridden" target="_blank">
+          <img src="https://coaster-count.com/banner/66449.png" alt="Coaster Count" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3>🏆 Trophies</h3>
+        <img src="https://trophies.yarkis.top/?username=yarkis01&theme=matrix&no-bg=true&no-frame=true&row=2&column=4&rank=-?" width="100%" alt="Trophies" />
+      </td>
+    </tr>
+  </table>
 </div>
