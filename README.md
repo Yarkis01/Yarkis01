@@ -76,9 +76,6 @@
 1. 🎉 Merged PR [#3](https://github.com/TyradexTeam/Website/pull/3) in [TyradexTeam/Website](https://github.com/TyradexTeam/Website)
 2. 💪 Opened PR [#3](https://github.com/TyradexTeam/Website/pull/3) in [TyradexTeam/Website](https://github.com/TyradexTeam/Website)
 3. 💪 Opened PR [#120](https://github.com/Yarkis01/TPI_Toolbox/pull/120) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-4. 🔒 Closed issue [#116](https://github.com/Yarkis01/TPI_Toolbox/issues/116) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-5. 🎉 Merged PR [#119](https://github.com/Yarkis01/TPI_Toolbox/pull/119) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
-6. ℹ️ Labeled PR [#119](https://github.com/Yarkis01/TPI_Toolbox/pull/119) in [Yarkis01/TPI_Toolbox](https://github.com/Yarkis01/TPI_Toolbox)
 <!--END_SECTION:activity-->
 
 <br />
